@@ -1,0 +1,14 @@
+{
+  "name": "chekpoint",
+  "version": "1.0.0",
+  "description": "node.js chekpoint",
+  "main": "main.js",
+  "scripts": {
+    "test": "nodemon main.js"
+  },
+  "author": "mayssa LOUATI",
+  "license": "MIC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
